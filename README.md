@@ -105,8 +105,7 @@ for(size_t i = 0; i < str.length(); i++)
 
 ### Response 2
 Someone replied to the original post with a function for strip that works exactly as it suppose to. However instead of a for loop they managed to do the function with a while loop.
-What I wanted my function to do is to iterate through every character within the string, and if the character that it is currently on is a whitespace, then it pushes the str further. If the character is a letter then it should break out of the loop.
-However, the code would randomly stop after the first few or would go farther and delete some letters.
+What I wanted my function to do is to iterate through every character within the string, and if the character that it is currently on is a whitespace, then it pushes the str further. If the character is a letter then it should break out of the loop. ( Code Above )
 
 The code from the stackoverflow:
 
@@ -123,7 +122,6 @@ std::string strip(const std::string &inpt)
 
 ### Changes 2
 So I changed my function to the one similar in the stackoverflow. Since I didn't do the code myself, I had to understand what the code meant. At the time I found this code, I was working on the Lstrip function, so I wanted to take apart the code that essentially built that strip. The code from stackoverflow was very similiar to what I tried, but I was stuck on was the *start_it, but then after researching I figured that its just the pointer to the current character.
-
 
 And so for the Lstrip I used the code:
 
@@ -205,5 +203,3 @@ And so my code for RStrip is:
     }
 
     return std::string(str.begin(), cpy_str.base());
-
-###
