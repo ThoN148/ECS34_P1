@@ -13,8 +13,8 @@ N/A The code had passed all of the given google test provided from the student.
 * [StringOperators](https://en.cppreference.com/w/cpp/string/basic_string)
 * [StripFunctionC++](https://stackoverflow.com/questions/9358718/similar-function-in-c-to-pythons-strip)
 * [FindFunctionC++](https://www.scaler.com/topics/cpp-find/)
-* [ReplaceFunctionC++] (https://www.scaler.com/topics/cpp-string-replace/)
-* [VectorFunctionC++](https://www.programiz.com/cpp-programming/vectors#:~:text=In%20C%2B%2B%2C%20vectors%20are the%20C%2B%2B%20Standard%20Template%20Library.)
+* [ReplaceFunctionC++](https://www.scaler.com/topics/cpp-string-replace/)
+* [VectorFunctionC++](https://www.programiz.com/cpp-programming/vectors#:~:text=In%20C%2B%2B%2C%20vectors%20arethe%20C%2B%2B%20Standard%20Template%20Library.)
 * [MoreVectorC++](https://www.tutorialspoint.com/how-to-print-out-the-contents-of-a-vector-in-cplusplus)
 * [Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance)
 
