@@ -1,2 +1,0 @@
-# ECS34_P1
-2024 WQ - ECS34: Project 1
